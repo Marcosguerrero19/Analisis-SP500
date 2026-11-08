@@ -124,4 +124,4 @@ Están documentadas también dentro del propio informe.
 
 Técnico de ensayo eléctrico orientándome al análisis de datos. Máster en Data Analytics.
 
-[LinkedIn](https://www.linkedin.com/in/) · [GitHub](https://github.com/Marcosguerrero19)
+[LinkedIn](www.linkedin.com/in/marcos-guerrero-sanchez) · [GitHub](https://github.com/Marcosguerrero19)
